@@ -6,7 +6,27 @@
 
 ---
 
-## 📌 Project Overview
+## 1. Business Understanding
+### 1.1 Business Background
+### 1.2 Bussiness Problem
+### 1.3 Project Objectives
+### 1.4 Bussiness Questions
+
+## 2. Data Source
+
+## 3. Tech Stack
+
+## 4. Data Cleaning
+
+## 5. Data Extraction & Feature Engineering
+
+## 6. Key Findings
+
+## 7. Dashboard Overview
+
+## 8. Insights & Strategic Recommendations
+
+## 9. Limitations & Methodology Notes
 
 **Habnawi's Electronic, Inc.** is a fictional electronics retail company that sells a variety of electronic products through online and offline sales channels across multiple countries.
 
