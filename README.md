@@ -24,7 +24,7 @@ To address these needs, an Executive Sales Dashboard has been developed; it pres
 
 ### 1.3 Project Objectives
 
-Therefore, this project aims to develop an interactive dashboard that allows stakeholders to monitor business performance and explore sales patterns through data.
+This project aims to develop an interactive dashboard that allows stakeholders to monitor business performance and explore sales patterns through data.
 
 ---
 
