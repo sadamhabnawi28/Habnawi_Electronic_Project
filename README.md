@@ -1,6 +1,6 @@
 # 📊 Habnawi's Electronic, Inc. — Sales Performance Dashboard
 
-> An interactive Business Intelligence dashboard designed to analyze sales, revenue, and profitability performance of a fictional electronics retail company.
+> This project demonstrates an end-to-end **Data Analytics and Business Intelligence workflow**, starting from data preparation and data modeling to visualization and business insight generation.
 
 ![Dashboard Preview](assets/dashboard-preview.png)
 
@@ -9,7 +9,7 @@
 ## 1. Business Understanding
 ### 1.1 Business Background
 
-Habnawi's Electronic, Inc. is an electronics retail company specializing in the sale of various electronic products and technology devices for home, office, and entertainment needs. The company offers a wide range of product categories, such as laptops, smartphones, televisions, computers, accessories, and home appliances from various renowned brands.
+**Habnawi's Electronic, Inc.** is an electronics retail company specializing in the sale of various electronic products and technology devices for home, office, and entertainment needs. The company offers a wide range of product categories, such as laptops, smartphones, televisions, computers, accessories, and home appliances from various renowned brands.
 
 Over the past few years, the company has experienced an increase in the number of transactions; however, management still lacks a comprehensive overview of the factors that contribute most significantly to the company's revenue and profit.
 
@@ -24,7 +24,17 @@ To address these needs, an Executive Sales Dashboard has been developed; it pres
 
 ### 1.3 Project Objectives
 
-Therefore, this project aims to develop an interactive dashboard that allows stakeholders to monitor business performance and explore sales patterns through data.
+This project aims to develop an interactive dashboard that allows stakeholders to monitor business performance and explore sales patterns through data.
+
+The dashboard provides management-level insights into:
+
+- Overall sales performance
+- Revenue and profitability
+- Product category performance
+- Online vs. offline sales contribution
+- Profit trends over time
+- Geographic profitability
+- Performance across different time periods
 
 ---
 
@@ -56,38 +66,7 @@ Therefore, this project aims to develop an interactive dashboard that allows sta
 
 ## 9. Limitations & Methodology Notes
 
-**Habnawi's Electronic, Inc.** is a fictional electronics retail company that sells a variety of electronic products through online and offline sales channels across multiple countries.
 
-This project focuses on transforming raw transactional sales data into an interactive **Executive Sales Performance Dashboard** using **Power BI**.
-
-The dashboard provides management-level insights into:
-
-- Overall sales performance
-- Revenue and profitability
-- Product category performance
-- Online vs. offline sales contribution
-- Profit trends over time
-- Geographic profitability
-- Performance across different time periods
-
-The project demonstrates an end-to-end **Data Analytics and Business Intelligence workflow**, starting from data preparation and data modeling through to visualization and business insight generation.
-
----
-
-## 🎯 Business Problem
-
-As the business operates across multiple product categories, sales channels, and geographic markets, management needs a centralized way to monitor business performance.
-
-Without an integrated analytical dashboard, several business questions become difficult to answer efficiently:
-
-1. Which product categories generate the most revenue?
-2. How much revenue comes from online and offline transactions?
-3. How does profit change over time?
-4. Which countries contribute the most to overall profit?
-5. Are there specific periods with significant changes in profitability?
-6. How can management monitor key business performance indicators in a single view?
-
-Therefore, this project aims to develop an interactive dashboard that allows stakeholders to monitor business performance and explore sales patterns through data.
 
 ---
 
