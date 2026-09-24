@@ -8,9 +8,37 @@
 
 ## 1. Business Understanding
 ### 1.1 Business Background
+
+Habnawi's Electronic, Inc. is an electronics retail company specializing in the sale of various electronic products and technology devices for home, office, and entertainment needs. The company offers a wide range of product categories, such as laptops, smartphones, televisions, computers, accessories, and home appliances from various renowned brands.
+
+Over the past few years, the company has experienced an increase in the number of transactions; however, management still lacks a comprehensive overview of the factors that contribute most significantly to the company's revenue and profit.
+
+---
+
 ### 1.2 Bussiness Problem
+
+Management seeks to identify top-performing product categories, the effectiveness of individual sales channels, profit trends over time, and the countries contributing the highest profits. This information is essential for supporting strategic decision-making regarding product management, marketing, market expansion, and profitability enhancement.
+To address these needs, an Executive Sales Dashboard has been developed; it presents Key Performance Indicators (KPIs) and interactive visualizations, enabling management to monitor business performance rapidly and on a data-driven basis.
+
+---
+
 ### 1.3 Project Objectives
+
+Therefore, this project aims to develop an interactive dashboard that allows stakeholders to monitor business performance and explore sales patterns through data.
+
+---
+
 ### 1.4 Bussiness Questions
+
+1. What are the total revenue, profit, and total orders achieved by the company?
+2. Which product category generates the most/least revenue?
+3. How is revenue distributed across product categories?
+4. What is the contribution of online sales versus offline sales to total revenue?
+5. What was the trend in daily profits during the sales period?
+6. Were there any specific periods that showed a significant surge or drop in profits?
+7. Which country has the lowest profit performance, thereby requiring further evaluation?
+
+---
 
 ## 2. Data Source
 
