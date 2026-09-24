@@ -2,14 +2,14 @@
 
 > This project demonstrates an end-to-end **Data Analytics and Business Intelligence workflow**, starting from data preparation and data modeling to visualization and business insight generation.
 
-![Dashboard Preview](images/dashboard_preview.jpg)
+![Dashboard Preview](image/dashboard_preview.jpg)
 
 ---
 
 ## 1. Business Understanding
 ### 1.1 Business Background
 
-**Habnawi's Electronic, Inc.** is an electronics retail company specializing in the sale of various electronic products and technology devices for home, office, and entertainment needs. The company offers a wide range of product categories, such as laptops, smartphones, televisions, computers, accessories, and home appliances from various renowned brands.
+**Habnawi's Electronic, Inc.** is a fictional electronics retail company specializing in the sale of various electronic products and technology devices for home, office, and entertainment needs. The company offers a wide range of product categories, such as laptops, smartphones, televisions, computers, accessories, and home appliances from various renowned brands.
 
 Over the past few years, the company has experienced an increase in the number of transactions; however, management still lacks a comprehensive overview of the factors that contribute most significantly to the company's revenue and profit.
 
@@ -50,7 +50,13 @@ The dashboard provides management-level insights into:
 
 ---
 
-## 2. Data Source
+## 2. Dataset Overview
+
+This project uses an open source datasets that represents an electronic retail company. The datasets contains 3 main part with different file extension, Sales.csv, Product.txt, and Country.txt.
+
+![Dataset Preview](images/dataset_preview.jpg)
+
+---
 
 ## 3. Tech Stack
 
