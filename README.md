@@ -60,7 +60,57 @@ This project uses an open source datasets that represents an electronic retail c
 
 ## 3. Tech Stack
 
-## 4. Data Cleaning
+## 4. Data Preparations
+
+Raw data was prepared using **Power Query** in **Power BI** to ensure data quality and consistency before the analysis and visualization stages.
+
+The data preparation process included:
+- Data type validation - ensuring dates, numerical values, and categorical fields assigned appropriate data types.
+- Data cleaning - identifying and handling missing, inconsistent, or invalid values.
+- Column transformation - formatting and transforming existing fields to make them suitable for analysis.
+- Data standardization - ensuring consistent values across categorical fields such as product categories, sales channels, and countries.
+- Data validation - checking the transformed dataset to ensure that the resulting data was consistent and ready for modeling.
+- Data preperation for modeling - structuring the cleaned dataset as the foundation for the subsequent data modeling and dashboard development stages.
+
+For **Country** dataset, since it is in a .txt file without delimiters, it must first be converted using **Python** before undergoing data cleaning with **Power Query**.
+This is the code to convert the **Country** dataset from .txt file to csv file:
+
+```python
+
+import pandas as pd
+def preprocess():
+    with open(file) as file:
+        content = file.readlines()
+
+    content = [line.strip() for line in content]
+    content = [line.split() for line in content]
+
+    storekeys = [line[0] for line in content][1:]
+
+    countries = [
+        " ".join(line[1:3])
+        if line[1]  == "United" else line[1] 
+        for line in content
+        ][1:]
+
+    states = [
+        " ".join(line[3:])
+        if line[1]  == "United" else " ".join(line[2:]) 
+        for line in content
+        ][1:]
+
+    data = {
+        "id":storekeys,
+        "country": countries,
+        "states": states
+    }
+
+    df = pd.DataFrame(data)
+    df.to_csv("store.csv", index=False)
+
+```
+
+
 
 ## 5. Data Extraction & Feature Engineering
 
