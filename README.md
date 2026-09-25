@@ -109,17 +109,27 @@ def preprocess():
     df.to_csv("store.csv", index=False)
 ```
 
+## 5. Data Modeling
 
+The dataset was structured using a **dimensional data model** based on the **Star Schema** approach in Power BI. The model separates transactional data from descriptive attributes, allowing the dashboard to perform analysis across different business dimensions such as products, stores, and time.
 
-## 5. Data Extraction & Feature Engineering
+The data model consists of:
 
-## 6. Key Findings
+- **Fact Table:** `Sales`
+- **Dimension Tables:** `Products`, `Store`, and `Calendar`
+- **Measure Table:** `Measure`
 
-## 7. Dashboard Overview
+![Data Model Preview](images/data_model.png)
 
-## 8. Insights & Strategic Recommendations
+## 6. Data Extraction & Feature Engineering
 
-## 9. Limitations & Methodology Notes
+## 7. Key Findings
+
+## 8. Dashboard Overview
+
+## 9. Insights & Strategic Recommendations
+
+## 10. Limitations & Methodology Notes
 
 
 
