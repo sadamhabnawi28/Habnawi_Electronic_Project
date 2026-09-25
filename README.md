@@ -76,8 +76,8 @@ For **Country** dataset, since it is in a .txt file without delimiters, it must 
 This is the code to convert the **Country** dataset from .txt file to csv file:
 
 ```python
-
 import pandas as pd
+
 def preprocess():
     with open(file) as file:
         content = file.readlines()
@@ -107,7 +107,6 @@ def preprocess():
 
     df = pd.DataFrame(data)
     df.to_csv("store.csv", index=False)
-
 ```
 
 
