@@ -42,29 +42,29 @@ The dashboard provides management-level insights into:
 
 The analysis was designed to answer the following questions:
 
-### Overall Performance
+1. Overall Performance
 
 - What are the company's total Revenue, Profit, and Orders?
 - How does overall business performance change over time?
 
-### Product Performance
+2. Product Performance
 
 - Which product categories generate the highest revenue?
 - Which categories contribute the least revenue?
 - How is revenue distributed across product categories?
 
-### Sales Channel
+3. Sales Channel
 
 - How much revenue is generated through Online and Offline transactions?
 - What is the contribution of each sales channel to total revenue?
 
-### Time Analysis
+4. Time Analysis
 
 - How does daily profit change over time?
 - Are there periods with significant increases or decreases in profit?
 - How does the moving average help identify the underlying profit trend?
 
-### Geographic Performance
+5. Geographic Performance
 
 - Which countries contribute the most profit?
 - How is profit distributed across different countries?
