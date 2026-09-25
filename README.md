@@ -108,6 +108,7 @@ def preprocess():
     df = pd.DataFrame(data)
     df.to_csv("store.csv", index=False)
 ```
+---
 
 ## 5. Data Modeling
 
@@ -120,6 +121,8 @@ The data model consists of:
 - **Measure Table:** `Measure`
 
 <img src="images/data_model.png" alt="Data Model" width="500">
+
+---
 
 ### 5.1 Fact Table - Sales
 The **Sales** table serves as the central fact table of the model. It contains transactional-level sales records and the foreign keys required to connect each transaction to the corresponding dimensions.
@@ -138,6 +141,8 @@ The **Sales** table serves as the central fact table of the model. It contains t
 | `Currency Code` | Currency associated with the transaction                     |
 
 The Sales table acts as the many-side (*) of the relationships with the dimension tables because multiple sales transactions can belong to the same product, store, or date.
+
+---
 
 ### 5.2 Dimension Table
 #### 5.2.1 Products
@@ -164,6 +169,68 @@ This dimension enables product-oriented analysis, such as:
 - Profitability by category or subcategory
 
 Using a separate product dimension also prevents repetitive product descriptions from being stored in every transactional record.
+
+---
+
+#### 5.2.2 Store
+
+The Store table contains descriptive information about the store or sales location associated with each transaction.
+
+The table contains attributes such as:
+
+- id
+- country
+- states
+- IsOnline
+
+These attributes allow the dashboard to analyze sales performance across different geographical and sales-channel dimensions.
+
+For example, the IsOnline attribute can be used to distinguish between online and offline transactions, while country and states support geographical analysis.
+
+---
+
+#### 5.2.3 Calendar
+
+The Calendar table serves as the date dimension of the model. Rather than relying directly on the date column in the Sales fact table for time-based analysis, a dedicated calendar table provides a consistent structure for temporal analysis and Power BI time-intelligence calculations.
+
+The table contains fields such as:
+
+- Date
+- Day Name
+- Month Name
+- Quarter
+- Week of Month
+- Week of Year
+- Year
+
+---
+
+### 5.3 Measure Table
+
+The Measure table is a dedicated table used to organize and store DAX measures separately from the underlying data tables.
+
+The current model contains measures such as:
+
+- Revenue
+- Profit
+- Moving Average (25 Days)
+
+These measures are not stored as physical columns in the transactional data. Instead, they are calculated dynamically using DAX based on the current filter context.
+
+---
+
+### 5.4 Relationships
+
+The model uses one-to-many (1:*) relationships, where dimension tables represent the "one" side and the Sales fact table represents the "many" side.
+
+| Dimension  | Key          | Fact Table Key | Cardinality | Purpose                       |
+| ---------- | ------------ | -------------- | ----------- | ----------------------------- |
+| `Store`    | `id`         | `StoreKey`     | 1:*         | Store & geographical analysis |
+| `Products` | `ProductKey` | `ProductKey`   | 1:*         | Product analysis              |
+| `Calendar` | `Date`       | `Order Date`   | 1:*         | Time-based analysis           |
+
+---
+
 ## 6. Data Extraction & Feature Engineering
 
 ## 7. Key Findings
