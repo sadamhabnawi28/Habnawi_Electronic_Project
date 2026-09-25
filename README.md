@@ -2,8 +2,6 @@
 
 > This project demonstrates an end-to-end **Data Analytics and Business Intelligence workflow**, starting from data preparation and data modeling to visualization and business insight generation.
 
-![Dashboard Preview](image/dashboard_preview.jpg)
-
 ---
 
 ## 1. Business Understanding
@@ -257,6 +255,8 @@ The model uses one-to-many (1:*) relationships, where dimension tables represent
 ## 7. Key Findings
 
 ## 8. Dashboard Overview
+
+![Dashboard Preview](images/dashboard_preview.jpg)
 
 ## 9. Insights & Strategic Recommendations
 
