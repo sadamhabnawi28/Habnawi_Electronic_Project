@@ -119,7 +119,7 @@ The data model consists of:
 - **Dimension Tables:** `Products`, `Store`, and `Calendar`
 - **Measure Table:** `Measure`
 
-<img src="images/data_model.png" alt="Data Model" width="700">
+<img src="images/data_model.png" alt="Data Model" width="500">
 
 ## 6. Data Extraction & Feature Engineering
 
