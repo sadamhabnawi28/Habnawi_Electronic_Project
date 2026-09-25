@@ -231,8 +231,26 @@ The Measure table is a dedicated table used to organize and store DAX measures s
 The current model contains measures such as:
 
 - Revenue
+```DAX
+Revenue = SUMX(Sales, Sales[Quantity] * RELATED(Products[Unit Price USD]))
+```
 - Profit
+```DAX
+Profit = SUMX(Sales, Sales[Quantity] * (RELATED(Products[Unit Price USD]) - RELATED(Products[Unit Cost USD])))
+```
 - Moving Average (25 Days)
+```DAX
+Moving Average (25 Days) = 
+AVERAGEX(
+    DATESINPERIOD(
+        'Calendar'[Date],
+        MAX('Calendar'[Date]),
+        -25,
+        DAY
+    ),
+    [Profit]
+)
+```
 
 These measures are not stored as physical columns in the transactional data. Instead, they are calculated dynamically using DAX based on the current filter context.
 
