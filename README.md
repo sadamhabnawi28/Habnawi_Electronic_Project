@@ -40,13 +40,34 @@ The dashboard provides management-level insights into:
 
 ### 1.4 Bussiness Questions
 
-1. What are the total revenue, profit, and total orders achieved by the company?
-2. Which product category generates the most/least revenue?
-3. How is revenue distributed across product categories?
-4. What is the contribution of online sales versus offline sales to total revenue?
-5. What was the trend in daily profits during the sales period?
-6. Were there any specific periods that showed a significant surge or drop in profits?
-7. Which country has the lowest profit performance, thereby requiring further evaluation?
+The analysis was designed to answer the following questions:
+
+### Overall Performance
+
+- What are the company's total Revenue, Profit, and Orders?
+- How does overall business performance change over time?
+
+### Product Performance
+
+- Which product categories generate the highest revenue?
+- Which categories contribute the least revenue?
+- How is revenue distributed across product categories?
+
+### Sales Channel
+
+- How much revenue is generated through Online and Offline transactions?
+- What is the contribution of each sales channel to total revenue?
+
+### Time Analysis
+
+- How does daily profit change over time?
+- Are there periods with significant increases or decreases in profit?
+- How does the moving average help identify the underlying profit trend?
+
+### Geographic Performance
+
+- Which countries contribute the most profit?
+- How is profit distributed across different countries?
 
 ---
 
@@ -240,40 +261,5 @@ The model uses one-to-many (1:*) relationships, where dimension tables represent
 ## 9. Insights & Strategic Recommendations
 
 ## 10. Limitations & Methodology Notes
-
-
-
----
-
-## 🔎 Research Questions
-
-The analysis was designed to answer the following questions:
-
-### Overall Performance
-
-- What are the company's total Revenue, Profit, and Orders?
-- How does overall business performance change over time?
-
-### Product Performance
-
-- Which product categories generate the highest revenue?
-- Which categories contribute the least revenue?
-- How is revenue distributed across product categories?
-
-### Sales Channel
-
-- How much revenue is generated through Online and Offline transactions?
-- What is the contribution of each sales channel to total revenue?
-
-### Time Analysis
-
-- How does daily profit change over time?
-- Are there periods with significant increases or decreases in profit?
-- How does the moving average help identify the underlying profit trend?
-
-### Geographic Performance
-
-- Which countries contribute the most profit?
-- How is profit distributed across different countries?
 
 ---
