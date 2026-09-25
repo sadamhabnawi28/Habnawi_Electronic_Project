@@ -121,6 +121,49 @@ The data model consists of:
 
 <img src="images/data_model.png" alt="Data Model" width="500">
 
+### 5.1 Fact Table - Sales
+The **Sales** table serves as the central fact table of the model. It contains transactional-level sales records and the foreign keys required to connect each transaction to the corresponding dimensions.
+
+| Column          | Description                                                  |
+| --------------- | ------------------------------------------------------------ |
+| `Sales Key`     | Unique identifier for each sales record                      |
+| `Order Number`  | Identifier of the customer order                             |
+| `Line Item`     | Identifies individual line items within an order             |
+| `Order Date`    | Date when the order was placed                               |
+| `Delivery Date` | Date when the order was delivered                            |
+| `CustomerKey`   | Identifier linking sales transactions to customers           |
+| `ProductKey`    | Foreign key linking transactions to the `Products` dimension |
+| `StoreKey`      | Foreign key linking transactions to the `Store` dimension    |
+| `Quantity`      | Number of products sold                                      |
+| `Currency Code` | Currency associated with the transaction                     |
+
+The Sales table acts as the many-side (*) of the relationships with the dimension tables because multiple sales transactions can belong to the same product, store, or date.
+
+### 5.2 Dimension Table
+#### 5.2.1 Products
+The Products table contains descriptive information about the products sold by the company.
+Important attributes include:
+
+- ProductKey
+- Product Name
+- Brand
+- Category
+- CategoryKey
+- Subcategory
+- SubcategoryKey
+- Color
+- Unit Cost USD
+- Unit Price USD
+
+This dimension enables product-oriented analysis, such as:
+
+- Revenue by category
+- Revenue by product
+- Revenue by brand
+- Product performance
+- Profitability by category or subcategory
+
+Using a separate product dimension also prevents repetitive product descriptions from being stored in every transactional record.
 ## 6. Data Extraction & Feature Engineering
 
 ## 7. Key Findings
