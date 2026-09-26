@@ -272,8 +272,7 @@ The model uses one-to-many (1:*) relationships, where dimension tables represent
 
 ## 7. Key Findings
 
-### Finding 1
-Revenue is strongly concentrated in a small number of product categories
+### Finding 1 - Revenue is strongly concentrated in a small number of product categories
 
 ![Revenue By Category](images/rev_cat.png)
 
@@ -289,33 +288,23 @@ Revenue is strongly concentrated in a small number of product categories
 | Games and Toys                | $0.72 M  | 54.73%        |
 
 
-**Insight:**
+**Insight:**   
 `Computers` is the largest revenue contributor at **$19.30M (34.6%)**, followed by `Home Appliances` at **$10.80M (19.4%)**. Together, these two categories account for approximately **54%** of total revenue, indicating that overall sales performance is highly influenced by their performance. Meanwhile, `Cameras and camcorders`, `Cell phones`, and `TV and Video` each contribute approximately **10–12%**, providing additional but smaller revenue streams. At the lower end, Games and Toys contributes only **1.3%**, making it the smallest revenue-generating category.
 
 Profit margins across product categories range from **54.73% to 60.98%**, indicating relatively consistent profitability across the portfolio. `Music, Movies and Audio Books` records the highest margin at **60.98%**, followed by `Cameras and camcorders` at **60.12%** and `TV and Video` at **59.65%**. Meanwhile, `Games and Toys` has the lowest margin at **54.73%**.
 
-**Why it matters**:
+
+**Why it matters**:   
 `Computers` and `Home Appliances` represents significant source of both revenue and profit. Together these categories contributes a substantial portion of the company's overall financial performance. Because a substantial portion of company revenue and estimated profit comes from these categories, changes in its sales performance can have a meaningful impact on overall business results. From a business perspective, management needs to monitor these categories not only in terms of sales growth but also margin stability, inventory availability, product mix, and demand trends to ensure that growth does not come at the expense of profitability.
 
 On the other hand, the revenue distribution suggests that management should simultaneously protect the performance of the company's major revenue drivers while investigating growth opportunities and underlying performance factors in lower-contributing categories.
 
 The high profit margin of `Music, Movies and Audio Books` indicates that the category generates a relatively large amount of profit from each dollar of revenue. However, its relatively small revenue contribution limits its impact on the company's total profit. From a business perspective, this creates a potential growth opportunity. If the company can increase sales in this category while maintaining its current margin level, the category could make a larger contribution to overall profitability. Management could therefore investigate whether the category's relatively low revenue is driven by limited product assortment, lower customer demand, distribution reach, or sales volume.
 
-The analysis suggests two distinct business considerations: protecting high-revenue categories such as **Computers and Home Appliances**, which have a substantial impact on total profit, while also investigating higher-margin categories such as **Music, Movies and Audio Books** and **Cameras and camcorders** for potential revenue growth opportunities.
+The low contribution of `Games and Toys` to both revenue and profit margin creates a need to understand the underlying causes of the category's performance before deciding how it should be managed. If the performance is caused by limited demand, the company may need to reconsider its product strategy. If it is caused by limited assortment, distribution, or promotional exposure, there may be opportunities to improve performance. The key business consideration is therefore whether the category represents a growth opportunity or a relatively low-priority segment based on its potential and underlying economics.
 
+---
 
-
-### 7.2 Profitability Varies Less Than Revenue Across Categories
-
-**Insight:**  
-
-
-**Why It Matters:**  
-The relatively narrow margin range indicates that the company's overall profitability is influenced more strongly by **revenue scale and sales volume** than by substantial differences in category-level margins.
-
-This is particularly important for business planning because the company can potentially generate a significant increase in total profit by growing sales within its high-revenue categories while maintaining their existing margin levels. At the same time, higher-margin categories with smaller revenue contributions may represent opportunities to expand profitable revenue.
-
-Therefore, category performance should be considered from both a **scale perspective** (revenue and absolute profit) and an **efficiency perspective** (profit margin). This provides management with a more comprehensive basis for evaluating product portfolio performance, allocating resources, and identifying potential growth opportunities.
 
 ## 8. Dashboard Overview
 
