@@ -294,12 +294,12 @@ Revenue is strongly concentrated in a small number of product categories
 
 Profit margins across product categories range from **54.73% to 60.98%**, indicating relatively consistent profitability across the portfolio. `Music, Movies and Audio Books` records the highest margin at **60.98%**, followed by `Cameras and camcorders` at **60.12%** and `TV and Video` at **59.65%**. Meanwhile, `Games and Toys` has the lowest margin at **54.73%**.
 
-**Why it matters**: 
+**Why it matters**:
+`Computers` and `Home Appliances` represents significant source of both revenue and profit. Together these categories contributes a substantial portion of the company's overall financial performance. Because a substantial portion of company revenue and estimated profit comes from these categories, changes in its sales performance can have a meaningful impact on overall business results. From a business perspective, management needs to monitor these categories not only in terms of sales growth but also margin stability, inventory availability, product mix, and demand trends to ensure that growth does not come at the expense of profitability.
 
-The revenue distribution suggests that management should simultaneously protect the performance of the company's major revenue drivers while investigating growth opportunities and underlying performance factors in lower-contributing categories.
+On the other hand, the revenue distribution suggests that management should simultaneously protect the performance of the company's major revenue drivers while investigating growth opportunities and underlying performance factors in lower-contributing categories.
 
-However, the category with the highest profit margin is not necessarily the category generating the highest absolute profit. `Computers`, for example, has a lower margin of **58.43%**, but its significantly larger revenue base results in an estimated profit of approximately **$11.28M**, making it the largest profit contributor.
-
+The high profit margin of `Music, Movies and Audio Books` indicates that the category generates a relatively large amount of profit from each dollar of revenue. However, its relatively small revenue contribution limits its impact on the company's total profit. From a business perspective, this creates a potential growth opportunity. If the company can increase sales in this category while maintaining its current margin level, the category could make a larger contribution to overall profitability. Management could therefore investigate whether the category's relatively low revenue is driven by limited product assortment, lower customer demand, distribution reach, or sales volume.
 
 The analysis suggests two distinct business considerations: protecting high-revenue categories such as **Computers and Home Appliances**, which have a substantial impact on total profit, while also investigating higher-margin categories such as **Music, Movies and Audio Books** and **Cameras and camcorders** for potential revenue growth opportunities.
 
@@ -308,9 +308,7 @@ The analysis suggests two distinct business considerations: protecting high-reve
 ### 7.2 Profitability Varies Less Than Revenue Across Categories
 
 **Insight:**  
-Profit margins across product categories range from **54.73% to 60.98%**, indicating relatively consistent profitability across the portfolio. `Music, Movies and Audio Books` records the highest margin at **60.98%**, followed by `Cameras and camcorders` at **60.12%** and `TV and Video` at **59.65%**. Meanwhile, `Games and Toys` has the lowest margin at **54.73%**.
 
-However, the category with the highest profit margin is not necessarily the category generating the highest absolute profit. `Computers`, for example, has a margin of **58.43%**, but its significantly larger revenue base results in an estimated profit of approximately **$11.28M**, making it the largest profit contributor.
 
 **Why It Matters:**  
 The relatively narrow margin range indicates that the company's overall profitability is influenced more strongly by **revenue scale and sales volume** than by substantial differences in category-level margins.
