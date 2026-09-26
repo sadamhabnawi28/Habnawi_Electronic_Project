@@ -272,7 +272,22 @@ The model uses one-to-many (1:*) relationships, where dimension tables represent
 
 ## 7. Key Findings
 
-### **Finding 1 - Revenue is strongly concentrated in a small number of product categories**
+### Finding 1
+Revenue is strongly concentrated in a small number of product categories
+
+![Revenue By Category](images/rev_cat.png)
+
+| Category                      | Revenue  | Profit Margin |
+| ------------------------------| ---------| --------------|
+| Computers                     | $19.30 M | 58.43%        |
+| Home Appliances               | $10.80 M | 58.32%        |
+| Cameras and camcorders        | $6.52 M  | 60.12%        |
+| Cell phones                   | $6.18 M  | 56.58%        |
+| TV and Video                  | $5.93 M  | 59.65%        |
+| Audio                         | $3.17 M  | 57.67%        |
+| Music, Movies and Audio Books | $3.13 M  | 60.98%        |
+| Games and Toys                | $0.72 M  | 54.73%        |
+
 
 **Insight:**
 `Computers` is the largest revenue contributor at **$19.30M (34.6%)**, followed by `Home Appliances` at **$10.80M (19.4%)**. Together, these two categories account for approximately **54%** of total revenue, indicating that overall sales performance is highly influenced by their performance. Meanwhile, `Cameras and camcorders`, `Cell phones`, and `TV and Video` each contribute approximately **10–12%**, providing additional but smaller revenue streams. At the lower end, Games and Toys contributes only **1.3%**, making it the smallest revenue-generating category.
@@ -287,6 +302,22 @@ However, the category with the highest profit margin is not necessarily the cate
 
 
 The analysis suggests two distinct business considerations: protecting high-revenue categories such as **Computers and Home Appliances**, which have a substantial impact on total profit, while also investigating higher-margin categories such as **Music, Movies and Audio Books** and **Cameras and camcorders** for potential revenue growth opportunities.
+
+
+
+### 7.2 Profitability Varies Less Than Revenue Across Categories
+
+**Insight:**  
+Profit margins across product categories range from **54.73% to 60.98%**, indicating relatively consistent profitability across the portfolio. `Music, Movies and Audio Books` records the highest margin at **60.98%**, followed by `Cameras and camcorders` at **60.12%** and `TV and Video` at **59.65%**. Meanwhile, `Games and Toys` has the lowest margin at **54.73%**.
+
+However, the category with the highest profit margin is not necessarily the category generating the highest absolute profit. `Computers`, for example, has a margin of **58.43%**, but its significantly larger revenue base results in an estimated profit of approximately **$11.28M**, making it the largest profit contributor.
+
+**Why It Matters:**  
+The relatively narrow margin range indicates that the company's overall profitability is influenced more strongly by **revenue scale and sales volume** than by substantial differences in category-level margins.
+
+This is particularly important for business planning because the company can potentially generate a significant increase in total profit by growing sales within its high-revenue categories while maintaining their existing margin levels. At the same time, higher-margin categories with smaller revenue contributions may represent opportunities to expand profitable revenue.
+
+Therefore, category performance should be considered from both a **scale perspective** (revenue and absolute profit) and an **efficiency perspective** (profit margin). This provides management with a more comprehensive basis for evaluating product portfolio performance, allocating resources, and identifying potential growth opportunities.
 
 ## 8. Dashboard Overview
 
