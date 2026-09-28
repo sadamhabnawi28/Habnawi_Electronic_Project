@@ -316,6 +316,8 @@ The `Offline` sales is the company's dominant revenue channel, generating approx
 **Why It Matters**:   
 The strong concentration of revenue in the `offline` channel means that `offline` performance has a substantially greater impact on the company's overall financial performance. A **10%** change in `offline` revenue would represent approximately **$4.44M**, compared with **$1.14M** for an equivalent change in `online` revenue. At the same time, the **$11.40M** contribution from `online` transactions indicates that digital sales already represent a meaningful component of the company's revenue portfolio. Therefore, channel performance should be evaluated not only based on revenue contribution, but also in terms of profitability, customer behavior, transaction volume, and operating economics to understand the role and business value of each channel.
 
+---
+
 
 ## 8. Dashboard Overview
 
@@ -325,25 +327,27 @@ The strong concentration of revenue in the `offline` channel means that `offline
 
 ## 9. Strategic Recommendations
 
+### Revenue by Category
+
 Based on the revenue and profitability analysis, several strategic priorities can be identified.
 
-### 9.1 Protect and Strengthen the Core Revenue Engines
+1. Protect and Strengthen the Core Revenue Engines
 
 `Computers` and `Home Appliances` should remain key priorities because they collectively generate approximately **54% of total revenue** and represent a substantial share of estimated profit. Management should focus on maintaining product availability, optimizing inventory, monitoring product-level profitability, and developing targeted promotions. Because of their large revenue base, relatively small improvements in these categories can have a meaningful impact on overall business performance. For example, a **10%** increase in Computers revenue at the current margin would represent approximately **$1.93M in additional revenue** and around **$1.13M in additional profit**.
 
-### 9.2 Scale High-Margin Categories
+2. Scale High-Margin Categories
 
 `Cameras and camcorders`, `TV and Video`, and `Music, Movies and Audio Books` demonstrate relatively strong profit margins. The company should explore opportunities to increase their revenue contribution through broader product assortment, targeted marketing, cross-selling, product bundling, and improved channel exposure while maintaining margin discipline. The objective is to convert strong category-level profitability into greater absolute profit contribution.
 
-### 9.3 Improve Margin in High-Revenue Categories
+3. Improve Margin in High-Revenue Categories
 
 `Cell Phones` generates approximately **$6.18M in revenue** but has a comparatively lower profit margin of **56.58%**. Rather than focusing exclusively on increasing sales volume, management should investigate pricing, discounting, product mix, and brand-level profitability. Cross-selling accessories and complementary products can also increase revenue and profit per transaction. A 1 percentage-point improvement in margin on the current revenue base would represent approximately **$61.8K in additional profit**, assuming revenue remains constant.
 
-### 9.4 Investigate Underperforming Categories
+4. Investigate Underperforming Categories
 
 `Games and Toys` has the lowest revenue and lowest profit margin in the sales portfolio. Before making major portfolio decisions, management should investigate the underlying drivers of its performance, including sales volume, SKU availability, pricing, promotional exposure, inventory turnover, and seasonality. The objective is to determine whether the category represents an opportunity for improvement or should receive a lower level of strategic investment.
 
-### 9.5 Develop Cross-Selling and Bundling Opportunities
+5. Develop Cross-Selling and Bundling Opportunities
 
 The company can increase customer basket value by creating complementary product bundles across categories.
 
@@ -355,6 +359,19 @@ Examples include:
 - Cameras + memory cards and accessories
 
 This strategy can increase revenue per transaction while reducing reliance on customer acquisition as the sole driver of revenue growth.
+
+---
+### Revenue by Channel
+
+The company's revenue is currently highly concentrated in the offline channel, which contributes approximately 79.5% of total revenue, while the online channel contributes 20.5%. Therefore, the strategic priority should not be to replace the offline channel with online, but to protect the existing offline revenue base while developing online as a scalable growth channel.
+
+1. The company should protect and optimize its offline revenue engine because changes in offline performance have a substantially larger impact on total revenue. Operational initiatives should focus on maintaining store productivity, product availability, customer experience, and performance across locations.
+
+2. The company should develop the online channel as a growth engine. With approximately $11.40M in revenue, online sales already represent a meaningful part of the business and provide a foundation for further digital growth. However, online expansion should be evaluated based on profitability and customer economics rather than revenue growth alone.
+
+3. The company should adopt an omnichannel strategy that connects online and offline customer journeys. Initiatives such as Click & Collect, Ship From Store, unified loyalty programs, online-to-offline engagement, and offline-to-online customer acquisition can allow both channels to complement rather than compete with each other.
+
+4. Management should establish channel-level performance monitoring covering revenue, profit, margin, AOV, customer acquisition cost, conversion rate, repeat purchase, and customer lifetime value. This would enable the company to distinguish genuine incremental online growth from revenue that is simply shifting from offline to online.
 
 ---
 
