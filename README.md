@@ -318,6 +318,16 @@ The strong concentration of revenue in the `offline` channel means that `offline
 
 ---
 
+### Finding 3 - Profitability reached a major peak around early 2020
+
+![Daily Profit Review](images/prof_daily.png)
+
+**Insight:**  
+The company experienced a clear improvement in its underlying profitability from **2016** through **2019**, with the **20-day moving average** indicating a progressively higher profit baseline. However, daily profit remained highly volatile, with several significant spikes suggesting that profitability was influenced by short-term business events or changes in sales mix. Profitability reached its highest observed level around early **2020**, followed by a sustained decline in the underlying profit trend throughout much of **2020**. A modest recovery became visible entering 2021, although profitability had not returned to its previous peak.
+
+**Why It Matters:**  
+This pattern indicates that the company's profitability has not been constant over time and that the period around the **2020** peak represents an important performance inflection point. For management, the key issue is not simply identifying high- or low-profit days, but understanding the business drivers behind changes in the underlying profitability trend. Further analysis should connect profit movements with revenue, product mix, sales channels, geography, transaction volume, and promotional activity to determine whether changes in profitability were driven by sales growth, category mix, channel performance, or other operational factors.
+
 
 ## 8. Dashboard Overview
 
