@@ -278,20 +278,20 @@ The model uses one-to-many (1:*) relationships, where dimension tables represent
 
 | Category                      | Revenue  | Profit Margin |
 | ------------------------------| ---------| --------------|
-| Computers                     | $19.30 M | 58.43%        |
-| Home Appliances               | $10.80 M | 58.32%        |
-| Cameras and camcorders        | $6.52 M  | 60.12%        |
-| Cell phones                   | $6.18 M  | 56.58%        |
-| TV and Video                  | $5.93 M  | 59.65%        |
-| Audio                         | $3.17 M  | 57.67%        |
-| Music, Movies and Audio Books | $3.13 M  | 60.98%        |
-| Games and Toys                | $0.72 M  | 54.73%        |
+| Computers                     | $19.30 M | 58.4%        |
+| Home Appliances               | $10.80 M | 58.3%        |
+| Cameras and camcorders        | $6.52 M  | 60.1%        |
+| Cell phones                   | $6.18 M  | 56.6%        |
+| TV and Video                  | $5.93 M  | 59.7%        |
+| Audio                         | $3.17 M  | 57.7%        |
+| Music, Movies and Audio Books | $3.13 M  | 61.0%        |
+| Games and Toys                | $0.72 M  | 54.7%        |
 
 
 **Insight:**   
 `Computers` is the largest revenue contributor at **$19.30M (34.6%)**, followed by `Home Appliances` at **$10.80M (19.4%)**. Together, these two categories account for approximately **54%** of total revenue, indicating that overall sales performance is highly influenced by their performance. Meanwhile, `Cameras and camcorders`, `Cell phones`, and `TV and Video` each contribute approximately **10–12%**, providing additional but smaller revenue streams. At the lower end, Games and Toys contributes only **1.3%**, making it the smallest revenue-generating category.
 
-Profit margins across product categories range from **54.73% to 60.98%**, indicating relatively consistent profitability across the portfolio. `Music, Movies and Audio Books` records the highest margin at **60.98%**, followed by `Cameras and camcorders` at **60.12%** and `TV and Video` at **59.65%**. Meanwhile, `Games and Toys` has the lowest margin at **54.73%**.
+Profit margins across product categories range from **54.7% to 61.0%**, indicating relatively consistent profitability across the portfolio. `Music, Movies and Audio Books` records the highest margin at **61.0%**, followed by `Cameras and camcorders` at **60.1%** and `TV and Video` at **59.7%**. Meanwhile, `Games and Toys` has the lowest margin at **54.7%**.
 
 
 **Why it matters**:   
@@ -304,6 +304,17 @@ The high profit margin of `Music, Movies and Audio Books` indicates that the cat
 The low contribution of `Games and Toys` to both revenue and profit margin creates a need to understand the underlying causes of the category's performance before deciding how it should be managed. If the performance is caused by limited demand, the company may need to reconsider its product strategy. If it is caused by limited assortment, distribution, or promotional exposure, there may be opportunities to improve performance. The key business consideration is therefore whether the category represents a growth opportunity or a relatively low-priority segment based on its potential and underlying economics.
 
 ---
+
+### Finding 2 - The channel mix indicates different roles within the revenue portfolio
+
+![Revenue By Channel](images/rev_chan.png)
+
+
+**Insight:**   
+The `Offline` sales is the company's dominant revenue channel, generating approximately **$44.35M** or **79.5%** of total revenue, compared with **$11.40M** or **20.5%** from `online` transactions. This means the company currently relies heavily on its `offline` channel as its primary revenue engine, with `offline` revenue approximately 3.9 times larger than `online` revenue.
+
+**Why It Matters**:   
+The strong concentration of revenue in the `offline` channel means that `offline` performance has a substantially greater impact on the company's overall financial performance. A **10%** change in `offline` revenue would represent approximately **$4.44M**, compared with **$1.14M** for an equivalent change in `online` revenue. At the same time, the **$11.40M** contribution from `online` transactions indicates that digital sales already represent a meaningful component of the company's revenue portfolio. Therefore, channel performance should be evaluated not only based on revenue contribution, but also in terms of profitability, customer behavior, transaction volume, and operating economics to understand the role and business value of each channel.
 
 
 ## 8. Dashboard Overview
