@@ -73,7 +73,7 @@ The analysis was designed to answer the following questions:
 
 This project uses an open source datasets that represents an electronic retail company. The datasets contains 3 main part with different file extension, Sales.csv, Product.txt, and Country.txt.
 
-![Dataset Preview](images/dataset_preview.jpg)
+![Dataset Preview](images/dashboard_preview.png)
 
 ---
 
@@ -394,6 +394,6 @@ The company's revenue is currently highly concentrated in the offline channel, w
 
 ### Profit by Country
 
-Geographic strategy should focus on protecting the United States as the company's core profit engine while developing secondary markets through sustainable, margin-conscious growth. Given the relatively narrow 58–59% profit margin range across countries, differences in absolute profit appear to be driven more by business scale than by major margin variations. Therefore, management should prioritize profitable revenue growth, maintain margin discipline, investigate the drivers behind high-margin markets such as Australia, France, and the Netherlands, and strengthen the performance of meaningful secondary markets such as the UK, Germany, and Canada. Further Country × Category × Channel analysis should be conducted to identify the specific drivers of geographic profitability and support more targeted market decisions.
+Geographic strategy should focus on protecting the United States as the company's core profit engine while developing secondary markets through sustainable, margin-conscious growth. Given the relatively narrow 58–59% profit margin range across countries, differences in absolute profit appear to be driven more by business scale than by major margin variations. Therefore, management should prioritize profitable revenue growth, maintain margin discipline, investigate the drivers behind high-margin markets such as Australia, France, and the Netherlands, and strengthen the performance of meaningful secondary markets such as the UK, Germany, and Canada.
 
 ---
