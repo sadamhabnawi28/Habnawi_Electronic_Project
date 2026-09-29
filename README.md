@@ -73,7 +73,7 @@ The analysis was designed to answer the following questions:
 
 This project uses an open source datasets that represents an electronic retail company. The datasets contains 3 main part with different file extension, Sales.csv, Product.txt, and Country.txt.
 
-![Dataset Preview](images/dashboard_preview.png)
+![Dataset Preview](images/dataset_preview.jpg)
 
 ---
 
@@ -268,7 +268,7 @@ The model uses one-to-many (1:*) relationships, where dimension tables represent
 
 ## 5. Dashboard Overview
 
-![Dashboard Preview](images/dashboard_preview.jpg)
+![Dashboard Preview](images/dashboard_preview.png)
 
 ## 6. Key Findings
 
