@@ -26,13 +26,13 @@ This project aims to develop an interactive dashboard that allows stakeholders t
 
 The dashboard provides management-level insights into:
 
-    - Overall sales performance
-    - Revenue and profitability
-    - Product category performance
-    - Online vs. offline sales contribution
-    - Profit trends over time
-    - Geographic profitability
-    - Performance across different time periods
+- Overall sales performance
+- Revenue and profitability
+- Product category performance
+- Online vs. offline sales contribution
+- Profit trends over time
+- Geographic profitability
+- Performance across different time periods
 
 ---
 
@@ -347,23 +347,23 @@ The concentration of profit in the `United States` means that its performance ha
 
 ### 7.1 Product Category Strategy
 
-1. Protect and Strengthen the Core Revenue Engines
+1. Protect and Strengthen the Core Revenue Engines   
 
 `Computers` and `Home Appliances` should remain key priorities because they collectively generate approximately **54% of total revenue** and represent a substantial share of estimated profit. Management should focus on maintaining product availability, optimizing inventory, monitoring product-level profitability, and developing targeted promotions. Because of their large revenue base, relatively small improvements in these categories can have a meaningful impact on overall business performance. For example, a **10%** increase in Computers revenue at the current margin would represent approximately **$1.93M in additional revenue** and around **$1.13M in additional profit**.
 
-2. Scale High-Margin Categories
+2. Scale High-Margin Categories   
 
 `Cameras and camcorders`, `TV and Video`, and `Music, Movies and Audio Books` demonstrate relatively strong profit margins. The company should explore opportunities to increase their revenue contribution through broader product assortment, targeted marketing, cross-selling, product bundling, and improved channel exposure while maintaining margin discipline. The objective is to convert strong category-level profitability into greater absolute profit contribution.
 
-3. Improve Margin in High-Revenue Categories
+3. Improve Margin in High-Revenue Categories   
 
 `Cell Phones` generates approximately **$6.18M in revenue** but has a comparatively lower profit margin of **56.58%**. Rather than focusing exclusively on increasing sales volume, management should investigate pricing, discounting, product mix, and brand-level profitability. Cross-selling accessories and complementary products can also increase revenue and profit per transaction. A 1 percentage-point improvement in margin on the current revenue base would represent approximately **$61.8K in additional profit**, assuming revenue remains constant.
 
-4. Investigate Underperforming Categories
+4. Investigate Underperforming Categories   
 
 `Games and Toys` has the lowest revenue and lowest profit margin in the sales portfolio. Before making major portfolio decisions, management should investigate the underlying drivers of its performance, including sales volume, SKU availability, pricing, promotional exposure, inventory turnover, and seasonality. The objective is to determine whether the category represents an opportunity for improvement or should receive a lower level of strategic investment.
 
-5. Develop Cross-Selling and Bundling Opportunities
+5. Develop Cross-Selling and Bundling Opportunities   
 
 The company can increase customer basket value by creating complementary product bundles across categories.
 
