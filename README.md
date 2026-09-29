@@ -77,9 +77,7 @@ This project uses an open source datasets that represents an electronic retail c
 
 ---
 
-## 3. Tech Stack
-
-## 4. Data Preparations
+## 3. Data Preparations
 
 Raw data was prepared using **Power Query** in **Power BI** to ensure data quality and consistency before the analysis and visualization stages.
 
@@ -129,7 +127,7 @@ def preprocess():
 ```
 ---
 
-## 5. Data Modeling
+## 4. Data Modeling
 
 The dataset was structured using a **dimensional data model** based on the **Star Schema** approach in Power BI. The model separates transactional data from descriptive attributes, allowing the dashboard to perform analysis across different business dimensions such as products, stores, and time.
 
@@ -143,7 +141,7 @@ The data model consists of:
 
 ---
 
-### 5.1 Fact Table - Sales
+### 4.1 Fact Table - Sales
 The **Sales** table serves as the central fact table of the model. It contains transactional-level sales records and the foreign keys required to connect each transaction to the corresponding dimensions.
 
 | Column          | Description                                                  |
@@ -163,8 +161,8 @@ The Sales table acts as the many-side (*) of the relationships with the dimensio
 
 ---
 
-### 5.2 Dimension Table
-#### 5.2.1 Products
+### 4.2 Dimension Table
+#### 4.2.1 Products
 The Products table contains descriptive information about the products sold by the company.
 Important attributes include:
 
@@ -191,7 +189,7 @@ Using a separate product dimension also prevents repetitive product descriptions
 
 ---
 
-#### 5.2.2 Store
+#### 4.2.2 Store
 
 The Store table contains descriptive information about the store or sales location associated with each transaction.
 
@@ -208,7 +206,7 @@ For example, the IsOnline attribute can be used to distinguish between online an
 
 ---
 
-#### 5.2.3 Calendar
+#### 4.2.3 Calendar
 
 The Calendar table serves as the date dimension of the model. Rather than relying directly on the date column in the Sales fact table for time-based analysis, a dedicated calendar table provides a consistent structure for temporal analysis and Power BI time-intelligence calculations.
 
@@ -224,7 +222,7 @@ The table contains fields such as:
 
 ---
 
-### 5.3 Measure Table
+### 4.3 Measure Table
 
 The Measure table is a dedicated table used to organize and store DAX measures separately from the underlying data tables.
 
@@ -256,7 +254,7 @@ These measures are not stored as physical columns in the transactional data. Ins
 
 ---
 
-### 5.4 Relationships
+### 4.4 Relationships
 
 The model uses one-to-many (1:*) relationships, where dimension tables represent the "one" side and the Sales fact table represents the "many" side.
 
@@ -268,9 +266,11 @@ The model uses one-to-many (1:*) relationships, where dimension tables represent
 
 ---
 
-## 6. Data Extraction & Feature Engineering
+## 5. Dashboard Overview
 
-## 7. Key Findings
+![Dashboard Preview](images/dashboard_preview.jpg)
+
+## 6. Key Findings
 
 ### Finding 1 - Profitability reached a major peak around early 2020
 
@@ -343,11 +343,7 @@ The concentration of profit in the `United States` means that its performance ha
 
 ---
 
-## 8. Dashboard Overview
-
-![Dashboard Preview](images/dashboard_preview.jpg)
-
-## 9. Strategic Recommendations
+## 7. Strategic Recommendations
 
 ### Revenue by Category
 
