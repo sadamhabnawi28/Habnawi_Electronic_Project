@@ -343,18 +343,13 @@ The concentration of profit in the `United States` means that its performance ha
 
 ---
 
-
 ## 8. Dashboard Overview
 
 ![Dashboard Preview](images/dashboard_preview.jpg)
 
-## 9. Insights & Strategic Recommendations
-
 ## 9. Strategic Recommendations
 
 ### Revenue by Category
-
-Based on the revenue and profitability analysis, several strategic priorities can be identified.
 
 1. Protect and Strengthen the Core Revenue Engines
 
@@ -386,6 +381,7 @@ Examples include:
 This strategy can increase revenue per transaction while reducing reliance on customer acquisition as the sole driver of revenue growth.
 
 ---
+
 ### Revenue by Channel
 
 The company's revenue is currently highly concentrated in the offline channel, which contributes approximately 79.5% of total revenue, while the online channel contributes 20.5%. Therefore, the strategic priority should not be to replace the offline channel with online, but to protect the existing offline revenue base while developing online as a scalable growth channel.
@@ -400,6 +396,8 @@ The company's revenue is currently highly concentrated in the offline channel, w
 
 ---
 
-## 10. Limitations & Methodology Notes
+### Profit by Country
+
+Geographic strategy should focus on protecting the United States as the company's core profit engine while developing secondary markets through sustainable, margin-conscious growth. Given the relatively narrow 58–59% profit margin range across countries, differences in absolute profit appear to be driven more by business scale than by major margin variations. Therefore, management should prioritize profitable revenue growth, maintain margin discipline, investigate the drivers behind high-margin markets such as Australia, France, and the Netherlands, and strengthen the performance of meaningful secondary markets such as the UK, Germany, and Canada. Further Country × Category × Channel analysis should be conducted to identify the specific drivers of geographic profitability and support more targeted market decisions.
 
 ---
