@@ -1,4 +1,4 @@
-# 📊 Habnawi's Electronic, Inc. - Sales Performance Dashboard
+# Habnawi's Electronic, Inc. - Sales Performance Dashboard
 
 > This project demonstrates an end-to-end **Data Analytics and Business Intelligence workflow**, starting from data preparation and data modeling to visualization and business insight generation.
 
