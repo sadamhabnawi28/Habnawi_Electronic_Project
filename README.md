@@ -272,7 +272,19 @@ The model uses one-to-many (1:*) relationships, where dimension tables represent
 
 ## 7. Key Findings
 
-### Finding 1 - Revenue is strongly concentrated in a small number of product categories
+### Finding 1 - Profitability reached a major peak around early 2020
+
+![Daily Profit Review](images/prof_daily.png)
+
+**Insight:**  
+The company experienced a clear improvement in its underlying profitability from **2016** through **2019**, with the **20-day moving average** indicating a progressively higher profit baseline. However, daily profit remained highly volatile, with several significant spikes suggesting that profitability was influenced by short-term business events or changes in sales mix. Profitability reached its highest observed level around early **2020**, followed by a sustained decline in the underlying profit trend throughout much of **2020**. A modest recovery became visible entering 2021, although profitability had not returned to its previous peak.
+
+**Why It Matters:**  
+This pattern indicates that the company's profitability has not been constant over time and that the period around the **2020** peak represents an important performance inflection point. For management, the key issue is not simply identifying high- or low-profit days, but understanding the business drivers behind changes in the underlying profitability trend. Further analysis should connect profit movements with revenue, product mix, sales channels, geography, transaction volume, and promotional activity to determine whether changes in profitability were driven by sales growth, category mix, channel performance, or other operational factors.
+
+---
+
+### Finding 2 - Revenue is strongly concentrated in a small number of product categories
 
 ![Revenue By Category](images/rev_cat.png)
 
@@ -305,10 +317,9 @@ The low contribution of `Games and Toys` to both revenue and profit margin creat
 
 ---
 
-### Finding 2 - The channel mix indicates different roles within the revenue portfolio
+### Finding 3 - The channel mix indicates different roles within the revenue portfolio
 
 ![Revenue By Channel](images/rev_chan.png)
-
 
 **Insight:**   
 The `Offline` sales is the company's dominant revenue channel, generating approximately **$44.35M** or **79.5%** of total revenue, compared with **$11.40M** or **20.5%** from `online` transactions. This means the company currently relies heavily on its `offline` channel as its primary revenue engine, with `offline` revenue approximately 3.9 times larger than `online` revenue.
@@ -318,15 +329,17 @@ The strong concentration of revenue in the `offline` channel means that `offline
 
 ---
 
-### Finding 3 - Profitability reached a major peak around early 2020
+### Finding 4 - The United States is the dominant profit market
 
-![Daily Profit Review](images/prof_daily.png)
+![Profit By Country Preview](images/prof_count.png)
 
-**Insight:**  
-The company experienced a clear improvement in its underlying profitability from **2016** through **2019**, with the **20-day moving average** indicating a progressively higher profit baseline. However, daily profit remained highly volatile, with several significant spikes suggesting that profitability was influenced by short-term business events or changes in sales mix. Profitability reached its highest observed level around early **2020**, followed by a sustained decline in the underlying profit trend throughout much of **2020**. A modest recovery became visible entering 2021, although profitability had not returned to its previous peak.
+**Insight:**   
+The company generated approximately $25.99M in profit across eight countries, with the United States contributing $13.92M or 53.6% of total profit. This makes the US the company's dominant geographic profit engine and indicates a significant concentration of profitability in a single market. The United Kingdom, Germany, and Canada form a meaningful secondary profit base, collectively contributing approximately 30.6% of total profit. Meanwhile, Australia, Italy, the Netherlands, and France each contribute less than 5% individually.
 
-**Why It Matters:**  
-This pattern indicates that the company's profitability has not been constant over time and that the period around the **2020** peak represents an important performance inflection point. For management, the key issue is not simply identifying high- or low-profit days, but understanding the business drivers behind changes in the underlying profitability trend. Further analysis should connect profit movements with revenue, product mix, sales channels, geography, transaction volume, and promotional activity to determine whether changes in profitability were driven by sales growth, category mix, channel performance, or other operational factors.
+**Why It Matters:**   
+The concentration of profit in the United States means that its performance has a substantial impact on overall company profitability. At the same time, absolute profit alone does not indicate market efficiency or growth potential. Further analysis combining country, revenue, profit margin, product category, channel, and time trends is required to understand the underlying drivers of geographic profitability.
+
+---
 
 
 ## 8. Dashboard Overview
