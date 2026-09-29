@@ -26,13 +26,13 @@ This project aims to develop an interactive dashboard that allows stakeholders t
 
 The dashboard provides management-level insights into:
 
-- Overall sales performance
-- Revenue and profitability
-- Product category performance
-- Online vs. offline sales contribution
-- Profit trends over time
-- Geographic profitability
-- Performance across different time periods
+    - Overall sales performance
+    - Revenue and profitability
+    - Product category performance
+    - Online vs. offline sales contribution
+    - Profit trends over time
+    - Geographic profitability
+    - Performance across different time periods
 
 ---
 
