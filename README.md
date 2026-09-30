@@ -13,7 +13,7 @@ Over the past few years, the company has experienced an increase in the number o
 
 ---
 
-### 1.2 Bussiness Problem
+### 1.2 Business Problem
 
 Management seeks to identify top-performing product categories, the effectiveness of individual sales channels, profit trends over time, and the countries contributing the highest profits. This information is essential for supporting strategic decision-making regarding product management, marketing, market expansion, and profitability enhancement.
 To address these needs, an Executive Sales Dashboard has been developed; it presents Key Performance Indicators (KPIs) and interactive visualizations, enabling management to monitor business performance rapidly and on a data-driven basis.
@@ -36,7 +36,7 @@ The dashboard provides management-level insights into:
 
 ---
 
-### 1.4 Bussiness Questions
+### 1.4 Business Questions
 
 The analysis was designed to answer the following questions:
 
