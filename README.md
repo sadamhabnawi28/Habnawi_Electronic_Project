@@ -383,3 +383,17 @@ The company's revenue is currently highly concentrated in the offline channel, w
 Geographic strategy should focus on protecting the United States as the company's core profit engine while developing secondary markets through sustainable, margin-conscious growth. Given the relatively narrow 58–59% profit margin range across countries, differences in absolute profit appear to be driven more by business scale than by major margin variations. Therefore, management should prioritize profitable revenue growth, maintain margin discipline, investigate the drivers behind high-margin markets such as Australia, France, and the Netherlands, and strengthen the performance of meaningful secondary markets such as the UK, Germany, and Canada.
 
 ---
+
+## License
+
+This project is licensed under the [MIT License]({{ '/license/' | relative_url }}). You are free to use, modify, and share this project with proper attribution.
+
+## About Me
+
+Hi there! I'm **Sadam Habnawi**. I'm a physics fresh graduate, i have a great enthusiasm in the field of data including data analytics, engineering, and data science!
+
+Let's stay in touch! Feel free to connect with me on the following platforms:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/sadam-habnawi-7621011b4)
+
+---
