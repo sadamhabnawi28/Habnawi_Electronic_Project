@@ -267,7 +267,8 @@ The model uses one-to-many (1:*) relationships, where dimension tables represent
 ---
 
 ## 5. Dashboard Overview
-[Link](https://community.fabric.microsoft.com/discussions/pbi_quickvizgallery/habnawis-electronic-inc-%E2%80%94-sales-performance-dashboard/5369659)
+[Link to dashboard](https://community.fabric.microsoft.com/discussions/pbi_quickvizgallery/habnawis-electronic-inc-%E2%80%94-sales-performance-dashboard/5369659)
+
 ![Dashboard Preview](images/dashboard_preview.png)
 
 ## 6. Key Findings
